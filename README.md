@@ -3,9 +3,9 @@
 
 #### Frontend:
 
-React JS / react-redux / React-router / Material UI
+React JS / React-redux / React-router / Material UI
 
-JavaScript (ES6+)
+JavaScript (ES6+) / TypeScript
 
 Axios
 
@@ -13,9 +13,11 @@ SCSS / Bootstrap / CSS / HTML
 
 #### Backend:
 
-Node.JS / Express
+Node.JS / Express / Nest.JS
 
-Axios
+PostgreSQL / Sequelize
+
+JavaScript (ES6+) / TypeScript
 
 WebSocket / Socket.io
 
