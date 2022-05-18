@@ -3,7 +3,7 @@
 
 #### Frontend:
 
-React JS / React-redux / React-router / Material UI
+React JS / React-redux / React-router / Material UI / React-Native
 
 JavaScript (ES6+) / TypeScript
 
@@ -15,7 +15,7 @@ SCSS / Bootstrap / CSS / HTML
 
 Node.JS / Express / Nest.JS
 
-PostgreSQL / Sequelize
+PostgreSQL / Sequelize / TypeORM
 
 JavaScript (ES6+) / TypeScript
 
