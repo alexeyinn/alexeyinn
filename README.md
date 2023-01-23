@@ -1,4 +1,3 @@
-#### [Я на хабре](https://career.habr.com/alexeyinn)
 #### [Я в телеграмме](https://t.me/alexeyinn)
 
 #### Frontend:
