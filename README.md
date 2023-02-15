@@ -1,26 +1,30 @@
 #### [Я в телеграмме](https://t.me/alexeyinn)
 
-#### Frontend:
-
-React JS / React-redux / React-router / Material UI / React-Native
-
-JavaScript (ES6+) / TypeScript
-
-Axios
-
-SCSS / Bootstrap / CSS / HTML
-
 #### Backend:
 
-Node.JS / Express / Nest.JS
+Node.JS / Nest.JS / Express
 
-PostgreSQL / Sequelize / TypeORM
+PostgreSQL / TypeORM / Sequelize / Prisma
 
-JavaScript (ES6+) / TypeScript
+MongoDB / Mongoose
 
 WebSocket / Socket.io
 
+REST / GraphQL
+
+#### Frontend:
+
+React JS / react-redux / Material UI / React-Native
+
+Axios﻿﻿
+
+SCSS / Bootstrap / CSS / HTML
+
 #### Другие скиллы:
+
+JavaScript (ES6+) / TypeScript
+
+Docker / PM2
 
 GitHub / GitLab
 
@@ -31,3 +35,5 @@ Jira / Confluence
 ESLint / Prettier
 
 English language (B2~B1)
+
+Russian language (native)
