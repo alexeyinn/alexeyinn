@@ -2,15 +2,23 @@
 
 #### Backend:
 
-Node.JS / Nest.JS / Express
+Backend:
+
+Node.JS / Nest.JS / Express / Fastify
 
 PostgreSQL / TypeORM / Sequelize / Prisma
 
 MongoDB / Mongoose
 
+Clickhouse / Redis / MySQL / SQLite / Greenplum
+
 WebSocket / Socket.io
 
 REST / GraphQL
+
+Microservices
+
+RabbitMQ
 
 #### Frontend:
 
